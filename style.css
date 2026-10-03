@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d0d0d;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+button {
+    background: #f26207;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+main {
+    text-align: center;
+    padding: 120px 20px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+p {
+    color: #aaa;
+    font-size: 18px;
+}
